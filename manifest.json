@@ -1,0 +1,16 @@
+{
+  "id": "starter",
+  "name": "Стартовая тема",
+  "version": "1.0.0",
+  "sdk": "1",
+  "description": "Стандартная тема board на контракте SDK — основа для своей темы.",
+  "slots": ["Header", "Footer", "Hero", "PropertyCard", "PropertyDetail"],
+  "listing": {
+    "showViewToggle": true,
+    "gridClass": {
+      "grid": "grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4",
+      "list": "flex flex-col gap-4"
+    }
+  },
+  "locales": ["ru", "en", "sr", "tg"]
+}

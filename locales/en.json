@@ -1,0 +1,12 @@
+{
+  "header": { "menu": "Menu" },
+  "hero": {
+    "badge": "Listings from owners and agencies",
+    "title": "Find your home",
+    "subtitle": "Apartments, houses and commercial property in one place",
+    "listings": "listing | listings",
+    "cities": "city | cities"
+  },
+  "card": { "floor": "floor {floor}/{total}" },
+  "detail": { "edit": "Edit" }
+}

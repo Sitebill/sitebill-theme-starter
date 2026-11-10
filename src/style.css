@@ -1,0 +1,10 @@
+@import "@sitebill/theme-sdk/tailwind.css";
+
+/* Tailwind собирает утилиты по файлам темы. */
+@source "./";
+
+/*
+ * Свои CSS-переменные темы. Атрибут data-theme на <html> — `custom:<id>`,
+ * поэтому стили, которые нужны только этой теме, можно ограничить так:
+ * [data-theme="custom:starter"] .my-class { … }
+ */

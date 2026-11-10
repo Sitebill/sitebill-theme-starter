@@ -1,0 +1,40 @@
+{
+  "name": "sitebill-theme-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Стартовый шаблон темы Sitebill: стандартная тема board, переписанная на контракт SDK",
+  "license": "MIT",
+  "author": "Sitebill <https://sitebillcms.com/>",
+  "homepage": "https://sitebillcms.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sitebill/sitebill-theme-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sitebill/sitebill-theme-starter/issues"
+  },
+  "keywords": [
+    "sitebill",
+    "real-estate",
+    "theme",
+    "starter",
+    "template",
+    "vue",
+    "tailwindcss"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "sitebill-theme dev",
+    "build": "sitebill-theme build",
+    "check": "sitebill-theme check"
+  },
+  "devDependencies": {
+    "@sitebill/theme-sdk": "^0.3.0",
+    "@tailwindcss/vite": "^4.1.0",
+    "@vitejs/plugin-vue": "^6.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.6.0",
+    "vite": "^7.0.0",
+    "vue": "^3.5.0"
+  }
+}

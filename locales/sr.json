@@ -1,0 +1,12 @@
+{
+  "header": { "menu": "Meni" },
+  "hero": {
+    "badge": "Oglasi vlasnika i agencija",
+    "title": "Pronađite svoj dom",
+    "subtitle": "Stanovi, kuće i poslovni prostor na jednom mestu",
+    "listings": "oglas | oglasa | oglasa",
+    "cities": "grad | grada | gradova"
+  },
+  "card": { "floor": "{floor}/{total} sprat" },
+  "detail": { "edit": "Izmeni" }
+}
